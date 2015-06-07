@@ -1,28 +1,32 @@
 # Slimshadies
 
-Names:
+## Group Members
 
-Jonathan Ting cs184-ad
-Destine  Lee  cs184-cn
+* Jonathan Ting cs184-ad
 
-Supported Platforms:
+* Destine  Lee  cs184-cn
 
-OS X
-Unix
+## Project Details
 
-Instructions for Execution:
+## Supported Platforms
 
+* OS X
+* Unix
+
+## Instructions for Execution
+
+``` bash
 make
 cd build
 ./as2 input.txt
+```
 
-Source Location:
+## Source Location
 
-submitted by cs184-cn, in /cs184-as2/src
+Submitted by cs184-cn, in /cs184-as2/src
 
-Third-Party Code Used:
+## Third-Party Libraries
 
-LodePNG, a PNG image decoder and encoder.
+* [LodePNG](lodev.org/lodepng), a PNG image decoder and encoder.
 
-url: lodev.org/lodepng/
-files: lodepng.cpp and lodepng.h in /cs184-as2/LodePNG
+Source code can be found in /cs184-as2/LodePNG.
