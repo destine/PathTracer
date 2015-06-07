@@ -1,11 +1,5 @@
 # Slimshadies
 
-## Group Members
-
-* Jonathan Ting cs184-ad
-
-* Destine  Lee  cs184-cn
-
 ## Project Details
 
 ## Supported Platforms
@@ -20,10 +14,6 @@ make
 cd build
 ./as2 input.txt
 ```
-
-## Source Location
-
-Submitted by cs184-cn, in /cs184-as2/src
 
 ## Third-Party Libraries
 
