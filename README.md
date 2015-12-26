@@ -21,6 +21,6 @@ cd build
 
 ## Third-Party Libraries
 
-* [LodePNG](lodev.org/lodepng), a PNG image decoder and encoder.
+* [LodePNG](http://lodev.org/lodepng), a PNG image decoder and encoder.
 
 Source code can be found in /LodePNG.
