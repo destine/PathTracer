@@ -4,7 +4,7 @@
 
 Description
 
-![An image should be here, but cannot be displayed!](/img/scene8.jpg)
+![An image should be here, but cannot be displayed!](/img/scene8.png)
 
 ## Supported Platforms
 
