@@ -1,10 +1,10 @@
 # Slimshadies
 
-## Project Details
-
-Description
+## About
 
 ![An image should be here, but cannot be displayed!](/img/scene8.png)
+
+Slimshadies is an implementation of the ray tracing algorithm for simple three dimensional scenes.
 
 ## Supported Platforms
 
