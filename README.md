@@ -2,6 +2,10 @@
 
 ## Project Details
 
+Description
+
+![An image should be here, but cannot be displayed!](/img/scene8.jpg)
+
 ## Supported Platforms
 
 * OS X
