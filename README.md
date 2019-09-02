@@ -1,10 +1,10 @@
-# Slimshadies
+# Path Tracer
 
 ## About
 
 ![An image should be here, but cannot be displayed!](/img/scene8.png)
 
-Slimshadies is an implementation of the ray tracing algorithm for simple three dimensional scenes.
+A physically-based renderer using a path-tracing algorithm and acceleration structures
 
 ## Supported Platforms
 
