@@ -23,4 +23,4 @@ cd build
 
 * [LodePNG](http://lodev.org/lodepng), a PNG image decoder and encoder.
 
-Source code can be found in /LodePNG.
+The source code for the library can be found in /LodePNG.
