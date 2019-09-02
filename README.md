@@ -2,9 +2,9 @@
 
 ## About
 
-![An image should be here, but cannot be displayed!](/img/scene8.png)
+Path Tracer is a physically-based renderer using a path-tracing algorithm and acceleration structures
 
-A physically-based renderer using a path-tracing algorithm and acceleration structures
+![An image should be here, but cannot be displayed!](/img/scene8.png)
 
 ## Supported Platforms
 
